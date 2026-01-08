@@ -4,7 +4,7 @@
 
 <p align="center" > Hi, I'm Guilherme Luz<p>
 
-<p align="center" width="70%"> I'm a small young developer<br><br>Qualified and motivated to create systems and mechanics that can improve our daily activities, obtaining knowledge and seeking experiences in each language, in order to expand vast knowledge and possibilities.</p>&nbsp;
+<p align="center" width="70%" margin="auto"> I'm a small young developer<br><br>Qualified and motivated to create systems and mechanics that can improve our daily activities, obtaining knowledge and seeking experiences in each language, in order to expand vast knowledge and possibilities.</p>&nbsp;
  
  &nbsp;
  &nbsp;
