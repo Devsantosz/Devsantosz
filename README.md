@@ -24,10 +24,10 @@
 
 #### Workstation Tools:
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Light.svg" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Light.svg" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Anaconda-Light.svg" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Light.svg" height="50">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Light.svg" height="50">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Anaconda-Light.svg" height="50">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" height="50">&nbsp;
 
 
 &nbsp;
