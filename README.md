@@ -2,9 +2,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&header"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center" > Hi, I'm Guilherme Luz<p>
+<p align="center" >Olá! Muito prazer em ter você aqui.<p>
 
-<p align="center" > I'm a small young developer<br><br>Qualified and motivated to create systems and mechanics that can improve our daily activities, obtaining knowledge and seeking experiences in each language, in order to expand vast knowledge and possibilities.</p>&nbsp;
+<p align="center" >Meu nome é Guilherme Luz, tenho 20 anos e sou Desenvolvedor Python em constante evolução.</p>
+
+<p align="center" > Estou sempre em busca de novos conhecimentos e experiências práticas, aprimorando minhas habilidades para criar soluções eficientes, bem estruturadas e com impacto real. Meu objetivo é ir além do código: desenvolver sistemas que gerem valor, otimizem processos e possam até transformar a forma como pessoas e negócios trabalham.</p>&nbsp;
  
  &nbsp;
  &nbsp;
