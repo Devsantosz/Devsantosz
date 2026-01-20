@@ -2,11 +2,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&header"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center" >Olá! Muito prazer em ter você aqui.<p>
+<p align="center" >Hello! It's a pleasure to have you here.<p>
 
-<p align="center" >Meu nome é Guilherme Luz, tenho 20 anos e sou Desenvolvedor Python em constante evolução.</p>
+<p align="center" >My name is Guilherme Luz, I'm 20 years old and I'm a constantly evolving Python Developer.</p>
 
-<p text-align="justify" text-indent="10px" width="80%" margin="auto"> Estou sempre em busca de novos conhecimentos e experiências práticas, aprimorando minhas habilidades para criar soluções eficientes, bem estruturadas e com impacto real. Meu objetivo é ir além do código: desenvolver sistemas que gerem valor, otimizem processos e possam até transformar a forma como pessoas e negócios trabalham.</p>&nbsp;
+<p text-align="justify" text-indent="15px" >I'm always seeking new knowledge and practical experiences, improving my skills to create efficient, well-structured solutions with real impact. My goal is to go beyond code: to develop systems that generate value, optimize processes, and can even transform the way people and businesses work.</p>&nbsp;
  
  &nbsp;
  &nbsp;
