@@ -6,7 +6,7 @@
 
 <p align="center" >Meu nome é Guilherme Luz, tenho 20 anos e sou Desenvolvedor Python em constante evolução.</p>
 
-<p align="center" > Estou sempre em busca de novos conhecimentos e experiências práticas, aprimorando minhas habilidades para criar soluções eficientes, bem estruturadas e com impacto real. Meu objetivo é ir além do código: desenvolver sistemas que gerem valor, otimizem processos e possam até transformar a forma como pessoas e negócios trabalham.</p>&nbsp;
+<p text-align="justify" > Estou sempre em busca de novos conhecimentos e experiências práticas, aprimorando minhas habilidades para criar soluções eficientes, bem estruturadas e com impacto real. Meu objetivo é ir além do código: desenvolver sistemas que gerem valor, otimizem processos e possam até transformar a forma como pessoas e negócios trabalham.</p>&nbsp;
  
  &nbsp;
  &nbsp;
