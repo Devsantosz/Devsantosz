@@ -26,7 +26,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-14314F?logo=PyCharm&style=for-the-badge)
-![Anaconda](https://skillicons.dev)
+<img src="https://skillicons.dev" alt="Anaconda" width="40" height="40">
 ![GitHub Desktop](https://img.shields.io)&nbsp;
 
 
