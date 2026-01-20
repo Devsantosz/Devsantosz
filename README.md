@@ -25,7 +25,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io)&nbsp;
+![Static Badge](https://img.shields.io/badge/Pycharm?style=flat-square&logo=green&logoColor=yellow&logoSize=10&labelColor=white&color=green&link=Pycharm)
 ![Anaconda](https://img.shields.io)&nbsp;
 ![GitHub Desktop](https://img.shields.io)&nbsp;
 
