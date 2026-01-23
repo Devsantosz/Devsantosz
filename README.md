@@ -2,14 +2,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&header"/>
 &nbsp;&nbsp;&nbsp;
 
+# Welcome to my profile!  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" height="25">
+
 <p align="center" >Hello! It's a pleasure to have you here.<p>
-
-<p align="center" >My name is Guilherme Luz, I'm 20 years old and <br>I'm a constantly evolving Python Developer.</p>
-
-<p text-align="justify" text-indent="15" >I'm always seeking new knowledge and practical experiences, improving my skills to create efficient, well-structured solutions with real impact. My goal is to go beyond code: to develop systems that generate value, optimize processes, and can even transform the way people and businesses work.</p>&nbsp;
  
- &nbsp;
- &nbsp;
+<p text-align="justify">I'm Guilherme Luz, 20 years old, a Python developer focused on continuous learning and the practical application of programming to create efficient and well-structured solutions. My goal is to develop systems that add value, optimize processes, and contribute to improving the performance of people and companies through technology.</p>&nbsp;
+
+## Objective
+
+<ul>
+ <li>Transformar aprendizado em projetos práticos e funcionais.</li>
+ <li>Evoluir constantemente minhas habilidades em Python e desenvolvimento web.</li>
+ <li>Compartilhar conhecimento e acompanhar minha própria evolução na área de tecnologia.</li>
+ <li>Aplicar boas práticas de programação em cada projeto publicado.</li>
+ <li>Testar ideias, estudar novas abordagens e aprimorar minha lógica de programação.</li>
+</ul>
 
 ## My Skills
 
