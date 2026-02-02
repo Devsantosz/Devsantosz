@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&header"/>
 
-<h1 align=center>Welcome to my profile!  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" height="25"> </h1>
+<h1 align=center>Welcome to my profile!</h1>
 
 <p align="center" >Hello! It's a pleasure to have you here.<p>
  
@@ -44,7 +44,7 @@
 ## ⭐ Featured Projects
 
 🔹 **Inventory Control System**  
-Python + SQLite + Tkinter  
+HTML5 + CSS3 + Python + SQLite   
 > Desktop system for stock management with CRUD operations.
 
 🔹 **Personal Portfolio Website**  
