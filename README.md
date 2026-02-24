@@ -7,7 +7,6 @@
  
 <p align="justify">I'm Guilherme Luz, 20 years old, a Python developer focused on continuous learning and the practical application of programming to create efficient and well-structured solutions. My goal is to develop systems that add value, optimize processes, and contribute to improving the performance of people and companies through technology.</p>&nbsp;
 
-<img width=100% src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 ## Objective:
 
