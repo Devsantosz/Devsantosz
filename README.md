@@ -72,7 +72,7 @@ HTML + CSS + JavaScript
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" height="50">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/santosz_xyd/" target="_blank">
+  <a href="https://www.instagram.com/devsantosz" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" height="50">
   </a>
 </p>
