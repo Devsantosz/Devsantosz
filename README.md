@@ -3,14 +3,14 @@
 <h1 align="center">Guilherme Luz (Devsantosz)</h1>
 
 <p align="center">
-  Python Developer • Building real solutions 🚀
+  Python Developer • Developing ideas, building dreams 🚀
 </p>
 
 ## 💻 About
 
-I'm a Python developer focused on creating **functional, efficient, and well-structured systems**.
+ Python developer focused on continuous learning and building real-world solutions. Evolving 1% every day, transforming ideas into practical projects that generate value and drive my technical and personal growth.
 
-I turn ideas into real projects that generate value through technology.
+I believe in development through practice, constantly testing and improving to evolve in various areas of technology.
 
 ## ⚡ Stack
 
