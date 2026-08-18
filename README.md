@@ -1,47 +1,30 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<h1 align="center">Guilherme Luz (Devsantosz)</h1>
+<h1 align=center> Guilherme Luz (Devsantosz)</h1>
 
-<p align="center">
-  Python Developer • Developing ideas, building dreams 🚀
+<p align="center" style="width: 30%; margin: auto;">
+  Estudante de Análise e Desenvolvimento de Sistemas, buscando aprimorar continuamente meus conhecimentos e desenvolver minhas habilidades em tecnologia.
 </p>
 
-## 💻 About
-
- Python developer focused on continuous learning and building real-world solutions. Evolving 1% every day, transforming ideas into practical projects that generate value and drive my technical and personal growth.
-
-I believe in development through practice, constantly testing and improving to evolve in various areas of technology.
-
-## ⚡ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,sqlite" />
+<p align="center" width="100%">
+  <img width="50%" alt="mini-dev-background" src="https://github.com/user-attachments/assets/4561f16f-2f02-4325-843b-9d86adcb95f7" />
 </p>
 
-## 🚀 Projects
+## Sobre:
 
-**📦 Inventory System**  
-HTML • CSS • Python • SQLite  
+<p>Sou um jovem apaixonado pela tecnologia, inicialmente pensando nos computadores, em como suas peças funcionam e como aquilo tudo que está dentro do computador faz aparecer essas imagens, essas cores, sons, etc.</p>
 
-**🌐 Portfolio Website**  
-HTML • CSS • JavaScript  
+Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas na Unimetrocamp Wyden, desenvolvendo minhas habilidades na prática com atividades e aprimorando meu conhecimento com o conteúdo prático, mas sempre buscando aplicá-los e desenvolvê-los em conjunto.
 
-## 📚 Learning
-
-Python • Flask • APIs • Auth • Docker
-
-## 📫 Contact
+## Habilidades:
 
 <p align="center">
-  <a href="mailto:guilherme3luz@outlook.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-luz-085239282/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/devsantosz">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" hspace="10" />
+  <img src="https://skillicons.dev/icons?i=css" hspace="10" />
+  <img src="https://skillicons.dev/icons?i=js" hspace="10" />
+  <img src="https://skillicons.dev/icons?i=python" hspace="10" />
+  <img src="https://skillicons.dev/icons?i=git" hspace="10" />
 </p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
