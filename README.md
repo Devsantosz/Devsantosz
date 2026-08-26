@@ -26,5 +26,12 @@ Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas na U
   <img src="https://skillicons.dev/icons?i=git" hspace="10" />
 </p>
 
+## Atualmente Estudando:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" hspace="10" />
+  <img src="https://skillicons.dev/icons?i=php" hspace="10" />
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
