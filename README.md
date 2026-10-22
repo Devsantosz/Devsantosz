@@ -39,7 +39,7 @@ Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas na U
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,git," />
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,github" />
   </a>
 </p>
 
