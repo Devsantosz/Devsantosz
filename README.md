@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<h1 align=center> Guilherme Luz (Devsantosz)</h1>
+<h1 align=center> Guilherme Luz (Estagiario Tech)</h1>
 
 <p align="center" style="width: 30%; margin: auto;">
   Estudante de Análise e Desenvolvimento de Sistemas, buscando aprimorar continuamente meus conhecimentos e desenvolver minhas habilidades em tecnologia.
 </p>
 
 <p align="center" width="100%">
-  <img width="50%" alt="mini-dev-background" src="https://github.com/user-attachments/assets/4561f16f-2f02-4325-843b-9d86adcb95f7" />
+  <img width="50%" alt="mini-dev-background" src="https://github.com/user-attachments/assets/4561f16f-2f02-4325-843b-9d86adcb95f7" />  
 </p>
 
 ## Sobre:
@@ -18,20 +18,43 @@ Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas na U
 
 ## Habilidades:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" hspace="10" />
-  <img src="https://skillicons.dev/icons?i=css" hspace="10" />
-  <img src="https://skillicons.dev/icons?i=js" hspace="10" />
-  <img src="https://skillicons.dev/icons?i=python" hspace="10" />
-  <img src="https://skillicons.dev/icons?i=git" hspace="10" />
-</p>
+
+```python
+skills = ["HTML5", "CSS3", "JavaScript", "Python", "Git"]
+
+for skill in skills:
+    print(f"{skill}")
+    #HTML5
+    #CSS3
+    #Javascrpt
+    #Python
+    #Git
+
+print("Em constante aprendizado. Me acompanhe nessa jornada! 🚀")
+```
 
 ## Atualmente Estudando:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" hspace="10" />
-  <img src="https://skillicons.dev/icons?i=php" hspace="10" />
-</p>
+```c++
 
+
+#include <iostream>
+
+int main() {
+    std::cout << "C++" << std::endl;
+    std::cout << "Em constante aprendizado. Me acompanhe nessa jornada! 🚀" << std::endl;
+
+    return 0;
+}
+```
+
+```php
+<?php
+
+echo "PHP" . PHP_EOL;
+echo "Em constante aprendizado. Me acompanhe nessa jornada! 🚀";
+
+?>
+```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
