@@ -21,7 +21,7 @@ Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas na U
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,git,cpp,php,sqlite" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,sqlite" />
   </a>
 </p>
 
@@ -39,13 +39,14 @@ Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas na U
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,git" />
   </a>
 </p>
 
-- **PyCharm:** ambiente de desenvolvimento para Python. Uso para escrever, executar e organizar códigos nessa linguagem.
-- **Visual Studio Code:** editor de código com suporte a várias linguagens e extensões. Uso para desenvolver e editar meus projetos.
-- **GitHub:** plataforma para hospedar repositórios e compartilhar projetos. Uso para publicar meus códigos e acompanhar meu aprendizado.
+- **PyCharm:** Uso para escrever, executar e organizar códigos nessa linguagem.
+- **Visual Studio Code:** Uso para desenvolver e editar meus projetos.
+- **GitHub:** Uso para publicar meus códigos, acompanhar meu aprendizado, documentando toda a evolução em diversas linguagens.
+- **Git:** Controle e versionamento de projetos e estudos.
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
